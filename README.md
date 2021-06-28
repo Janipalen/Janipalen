@@ -50,10 +50,8 @@
 </details>
 
 </details>
-https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
+1. https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
 
-https://www.reddit.com/user/Janipalen
-
-https://discord.gg/hBBmh9JN9G
-
-https://discord.gg/ySuk7RwDx6
+2. https://www.reddit.com/user/Janipalen
+3. https://discord.gg/hBBmh9JN9G
+4. https://discord.gg/ySuk7RwDx6
