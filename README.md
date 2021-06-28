@@ -1,5 +1,12 @@
 ### Hi, I'm Janipalen
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=irestartz&theme=dark&include_all_commits=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irestartz&theme=dark&layout=compact"/>
+
+---
+
 ## Here's some information you can view just about me.
 
 - I have an official discord server everyone can view
@@ -9,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Janipalen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Janipalen | Hytopia" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][hytopia]
-[<img align="left" alt="Janipalen | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="Janipalen | Beef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][beef]
+[<img align="left" alt="Janipalen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="Janipalen | Hytopia" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+[<img align="left" alt="Janipalen | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />]
+[<img align="left" alt="Janipalen | Beef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
 
 <br />
 <br />
@@ -43,11 +50,10 @@
 </details>
 
 </details>
-[youtube]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
-[reddit]: https://www.reddit.com/user/Janipalen
-[beef]: https://discord.gg/hBBmh9JN9G
-[hytopia]: https://discord.gg/ySuk7RwDx6
-[webdevplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
-[jsplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
-[cssplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
-[reactplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
+https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
+
+https://www.reddit.com/user/Janipalen
+
+https://discord.gg/hBBmh9JN9G
+
+https://discord.gg/ySuk7RwDx6
