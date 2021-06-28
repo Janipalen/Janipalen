@@ -64,8 +64,11 @@
 </details>
 
 </details>
-
 [youtube]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
 [reddit]: https://www.reddit.com/user/Janipalen
 [beef]: https://discord.gg/hBBmh9JN9G
 [hytopia]: https://discord.gg/ySuk7RwDx6
+[webdevplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
+[jsplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
+[cssplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
+[reactplaylist]: https://www.youtube.com/channel/UC5ODNd-Xr3CBGT3wlsFA0Fg
