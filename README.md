@@ -1,4 +1,4 @@
-### Hi, I'm Macintosh
+### Hi, I'm MacPer
 
 ---
 
