@@ -1,4 +1,4 @@
-### Hi, I'm Janipalen
+### Hi, I'm Macintosh
 
 ---
 
