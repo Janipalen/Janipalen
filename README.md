@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to the Macper's Github!</h1>
 
 I'm Macper, I mostly do C++ and learning Rust, I'm also behind the beloved GTOS!
+I'm not fully experienced with VisualBasic and .NET, C, C# and Rust. But I still choose to use those when I'm in need they come pretty useful in different situations, such as VisualBasic, C# with .NET in Winforms to make fully working Desktop Application and some others.
 
 - Currently experimenting with [Rust](https://www.rust-lang.org/) and [GTOS](https://discord.gg/66sefhMTNX)
 - Email: [macper@gtos2.com](mailto:macper@gtos2.com)
