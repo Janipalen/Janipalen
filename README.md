@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the Macper's Github!</h1>
 
-Intermediate C++ Developer
+<p align="center"> Intermediate C++ Developer
 
 - Email: [macper@gtos2.com](mailto:macper@gtos2.com)
 - Discord: `Macper#1000`
