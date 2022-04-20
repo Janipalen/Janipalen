@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to the Macper's Github!</h1>
 
-## About Me
 - Email: [emacper@gmail.com](mailto:emacper@gmail.com)
 - Discord: `Macper#1000`
 - Languages: C++
